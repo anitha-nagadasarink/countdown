@@ -1,4 +1,4 @@
-# Project Name : **Random Password Generator** 
+# Project Name : **Countdown** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 This project developed with pure HTML and TailwindCSS mainly focused on Pure Javascript. <br/>
@@ -7,7 +7,6 @@ A countdown app which takes the start position from the user and on reaching zer
 
 <br/>
 
-<br/>
 
 # 👩‍💻 Tech Stack Used :
 
@@ -27,12 +26,10 @@ A countdown app which takes the start position from the user and on reaching zer
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-random-password-generator.netlify.app/)
+[Live Link !](https://coutdown-numbers.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo.PNG)
-![Min Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-1.PNG)
-![Max Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-2.PNG)
+![App Image](https://github.com/anitha-nagadasarink/countdown/blob/Javascript-projects/images/demo.PNG)
 
 
