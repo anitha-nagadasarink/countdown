@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countdown app</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+  <section
+    class="bg-blueLight h-[100vh] text-center py-8 md:p-20  bg-gradient-to-r from-violet-500 text-white to-fuchsia-500 font-semibold">
+    <h1 class="md:text-5xl mb-6 uppercase text-lg">Countdown App</h1>
+    <div class="mt-10 flex justify-center align-center flex-col">
+      <label class="mb-3 font-lg">Input the Number to countdown</label>
+      <input type="number" id="number" class="w-1/2 md:w-1/5 p-1 m-auto text-black" min="5" max="100" />
+      <button
+        class="countdown p-3 bg-violet bg-sky-600 my-9 text-white w-1/2 md:w-1/6  mx-auto hover:bg-white hover:text-sky-900 transition duration-700 ease-in-out">Start
+        Countdown</button>
+    </div>
+    <h2 class="text-2xl my-5 uppercase">Counting Starts Here</h2>
+    <h4 class="result text-8xl font-semibold">00</h4>
+  </section>
+  <script src="script.js"></script>
+</body>
+
+</html>
